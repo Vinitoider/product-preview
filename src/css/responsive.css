@@ -1,31 +1,30 @@
-@media(max-width: 650px) {
-    
-    body {
-        min-height: 100vh;
-    }
+@media (max-width: 650px) {
+  body {
+    min-height: 100vh;
+  }
 
-    #imagem-perfume {
-        content: url(/src/images/image-product-mobile.jpg);
-        width: 345px;
-        border-radius: 10px 10px 0 0;
-    }
+  #imagem-perfume {
+    content: url(/src/images/image-product-mobile.jpg);
+    width: 345px;
+    border-radius: 10px 10px 0 0;
+  }
 
-    .conteudo {
-        display: flex;
-        flex-direction: column;
-    }
+  .conteudo {
+    display: flex;
+    flex-direction: column;
+  }
 
-    .conteudo .menu-conteudo {
-        border-radius: 0 0 10px 10px;
-        width: 345px;
-        padding: 25px;
-    }
+  .conteudo .menu-conteudo {
+    border-radius: 0 0 10px 10px;
+    width: 345px;
+    padding: 25px;
+  }
 
-    .botao-comprar {
-        width: 295px;
-    }
+  .botao-comprar {
+    width: 295px;
+  }
 
-    .conteudo .menu-conteudo .texto.subtitulo {
-        margin-bottom: 15px;
-    }
+  .conteudo .menu-conteudo .texto.subtitulo {
+    margin-bottom: 15px;
+  }
 }
