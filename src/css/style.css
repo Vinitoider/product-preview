@@ -47,6 +47,7 @@ body {
 
 .botao-comprar {
   font-weight: bold;
+  font-size: 15px;
   color: hsl(0, 0%, 100%);
   border: 0;
   background: hsl(158, 36%, 37%);
